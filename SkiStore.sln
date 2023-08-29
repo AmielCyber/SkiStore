@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiStore.API", "SkiStore.API\SkiStore.API.csproj", "{A9ACE51E-131D-4DAC-90C8-D0956A4278B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiStore.Data", "SkiStore.Data\SkiStore.Data.csproj", "{6E85E3A2-141C-4110-8E35-C2603E70E95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiStore.Core", "SkiStore.Core\SkiStore.Core.csproj", "{7864225F-ACB5-463E-82C0-3D67A9AB8893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9ACE51E-131D-4DAC-90C8-D0956A4278B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ACE51E-131D-4DAC-90C8-D0956A4278B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ACE51E-131D-4DAC-90C8-D0956A4278B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ACE51E-131D-4DAC-90C8-D0956A4278B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E85E3A2-141C-4110-8E35-C2603E70E95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E85E3A2-141C-4110-8E35-C2603E70E95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E85E3A2-141C-4110-8E35-C2603E70E95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E85E3A2-141C-4110-8E35-C2603E70E95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7864225F-ACB5-463E-82C0-3D67A9AB8893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7864225F-ACB5-463E-82C0-3D67A9AB8893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7864225F-ACB5-463E-82C0-3D67A9AB8893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7864225F-ACB5-463E-82C0-3D67A9AB8893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
